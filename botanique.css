@@ -1,0 +1,36 @@
+h1{
+    font-size: 4rem;
+    color: darkgreen;
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+#background{
+
+    margin: 4.2rem;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 60vh
+    
+
+}
+p{
+    font-size: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+footer{
+    background-color: black;
+    color: rgb(239, 238, 243);
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
